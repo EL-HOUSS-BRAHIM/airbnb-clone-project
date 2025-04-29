@@ -115,7 +115,7 @@ Each component will be:
 
 ---
 
-# 👥 Software Development Team Roles
+# 👥 Project Roles and Responsibilities
 
 | Role | Responsibilities |
 |:-----|:-----------------|
