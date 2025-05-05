@@ -11,7 +11,7 @@ Build a solid, scalable backend for an Airbnb-style app, handling users, propert
 - **Reviews:** Users can rate and review properties.
 - **Data Optimization:** Fast, efficient database access.
 
-## 🛠️ Features
+## 🛠️ Feature Breakdown
 - **API Docs:** OpenAPI + Django REST + GraphQL = Developer paradise.
 - **Authentication:** Register/login/manage users.
 - **Property Ops:** List, update, fetch, delete properties.
@@ -20,7 +20,7 @@ Build a solid, scalable backend for an Airbnb-style app, handling users, propert
 - **Reviews:** Post/manage property feedback.
 - **Performance Boosts:** Indexing + caching = speed demon.
 
-## ⚙️ Tech Stack
+## ⚙️ Technology Stack
 | Technology | Purpose |
 |:-----------|:--------|
 | Django | High-level Python framework for REST APIs |
@@ -115,7 +115,7 @@ Each component will be:
 
 ---
 
-# 👥 Project Roles and Responsibilities
+# 👥 Project Team Roles and Responsibilities
 
 | Role | Responsibilities |
 |:-----|:-----------------|
